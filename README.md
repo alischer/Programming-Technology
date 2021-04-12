@@ -1,9 +1,9 @@
 # Programming-Technology
 My educational projects
 
-Projects I have developed during my Programming classes
+Projects I have implemented during my Programming classes
 List of projects:
-1. Huffman algoritm for coding file
+1. Huffman algorithm for coding file
 2. Red-Black tree realization
 3. Fast Fourier Transform for multiplying polynomials
 4. Paralleling Gaussian elimination
